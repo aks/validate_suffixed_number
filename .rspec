@@ -1,0 +1,6 @@
+--colour
+--backtrace
+--fail-fast
+--require spec_helper.rb
+--require rails_helper.rb
+--format Fuubar
